@@ -31,7 +31,7 @@
 •	Interactive vehicle icons for dynamic filtering
 •	Dashboard updates based on selected vehicle type
 
-6.Insights
+6. Insights
 
 •	Booking trends vary across months
 •	Revenue differs by vehicle type
@@ -41,5 +41,8 @@
 7. Screenshots
    
 Uber-Interactive-Dashboard/Snapshot of home page.png at main · buildWithShruti/Uber-Interactive-Dashboard
+
 Uber-Interactive-Dashboard/1 - Snapshot of dashboard.png at main · buildWithShruti/Uber-Interactive-Dashboard
+
 Uber-Interactive-Dashboard/2 - Snapshot of dashboard.png at main · buildWithShruti/Uber-Interactive-Dashboard
+
