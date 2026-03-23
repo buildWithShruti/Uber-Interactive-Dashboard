@@ -21,7 +21,7 @@
    
    •	Average Distance
 
-6. Visuals Included
+5. Visuals Included
    
    •	Booking trend (Month / Quarter line chart)
    
@@ -35,7 +35,7 @@
    
    •	Top Pickup & Drop Locations
 
-8. Key Feature
+6. Key Feature
    
    •	2-page navigation: Home & Overview
    
@@ -43,7 +43,7 @@
    
    •	Dashboard updates based on selected vehicle type
 
-10. Insights
+7. Insights
 
    •	Booking trends vary across months
    
@@ -53,7 +53,7 @@
    
    •	Ratings remain consistent
 
-11. Screenshots
+8. Screenshots
    
    https://github.com/buildWithShruti/Uber-Interactive-Dashboard/blob/main/Snapshot%20of%20home%20page.png
    https://github.com/buildWithShruti/Uber-Interactive-Dashboard/blob/main/1%20-%20Snapshot%20of%20dashboard.png
