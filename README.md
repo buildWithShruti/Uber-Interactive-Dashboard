@@ -41,3 +41,4 @@
 7. Screenshots
    
 https://github.com/buildWithShruti/Uber-Interactive-Dashboard/blob/main/Snapshot%20of%20home%20page.png
+https://github.com/buildWithShruti/Uber-Interactive-Dashboard/blob/main/1%20-%20Snapshot%20of%20dashboard.png
